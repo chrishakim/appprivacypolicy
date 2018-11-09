@@ -8,5 +8,5 @@ Italiano: questa app non raccoglie i dati dell'utente.
 Svenska: den här appen samlar inte in användardata.
 简体中文：此应用程序不收集用户数据。
 繁體中文：此應用程序不收集用戶數據。
-한국어 :이 앱은 사용자 데이터를 수집하지 않습니다.
+한국어: 이 앱은 사용자 데이터를 수집하지 않습니다.
 日本語：このアプリはユーザーデータを収集しません。
