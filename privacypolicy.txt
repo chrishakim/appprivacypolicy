@@ -1,5 +1,5 @@
 English:  this app does not collect user data.
-Deutsch: Diese App erfasst keine Benutzerdaten.
+Deutsch: diese App erfasst keine Benutzerdaten.
 Español: esta aplicación no recoge datos del usuario.
 Français: cette appli ne retient aucune donnée utilisateur.
 Gàidhlig: chan eil an aplacaid seo a 'cruinneachadh dàta luchd-cleachdaidh.
